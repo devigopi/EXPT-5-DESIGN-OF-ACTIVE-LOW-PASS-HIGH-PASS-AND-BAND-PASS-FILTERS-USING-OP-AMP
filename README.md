@@ -25,8 +25,12 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 Design a second oder Butterworth filter with thw upper cutoff frequency of 1KHz.
 
 # TABULATION:
+![WhatsApp Image 2025-11-16 at 12 55 11_e2890ef7](https://github.com/user-attachments/assets/a09dea3f-1a30-4805-a75a-2f2741b88686)
+
 
 # GRAPH:
+![WhatsApp Image 2025-11-16 at 12 57 05_fcab2a0c](https://github.com/user-attachments/assets/c98c3b47-c3e4-43ea-a1b2-2e3ffef8008c)
+
 
 # THEORY:
 # HIGH PASS FILTER
@@ -45,8 +49,11 @@ A LPF allows frequencies from 0 to higher cut of frequencThe frequency at which 
 Design a second oder Butterworth filter with thw lower cutoff frequency of 1KHz.
 
 # TABULATION:
+![WhatsApp Image 2025-11-16 at 13 00 47_689051cd](https://github.com/user-attachments/assets/b554f14c-f046-4fa9-a15e-78883c5e6428)
 
 # GRAPH:
+![WhatsApp Image 2025-11-16 at 13 03 20_17d8d416](https://github.com/user-attachments/assets/4764cd25-c02a-4a60-a611-aba234641f75)
+
 
 # THEORY:
 # BAND PASS FILTER
@@ -64,8 +71,12 @@ A band pass filter has a pass band between two cutoff frequencies fH and fL such
 Design a BPF to pass a band of 400Hz to 2KHz with a pass band gain of 4.
 
 # TABULATION:
+![WhatsApp Image 2025-11-16 at 13 05 07_50c01e53](https://github.com/user-attachments/assets/c9465d66-03f4-43ed-812f-27d419e2b951)
+
 
 # GRAPH:
+![WhatsApp Image 2025-11-16 at 13 06 00_da5eab18](https://github.com/user-attachments/assets/134dbeac-69b4-44d3-b86b-4911e42c65cc)
+
 
 # PROCEDURE - (LPF & HPF):
 1. Connect the circuit as shown in the circuit diagram.
@@ -84,3 +95,4 @@ Design a BPF to pass a band of 400Hz to 2KHz with a pass band gain of 4.
 
 
 # RESULT
+  Thus an active low pass,High pass and bandpass filters are designed and tested using op-amp IC 741.
